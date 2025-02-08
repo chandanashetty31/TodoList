@@ -2,7 +2,7 @@ Its a simple to-do list application built using HTML, CSS, and JavaScript, with 
 
 **Features:** 
 
-✅ Add new tasks
+✅ Add new tasks </br>
 ✏️ Mark tasks as completed (strike-through effect)
 ❌ Delete tasks
 💾 Saves tasks in localStorage (persists even after page refresh)
